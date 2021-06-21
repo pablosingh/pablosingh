@@ -1,10 +1,6 @@
 ### Hola soy Pablo 👋
 
 <!DOCTYPE html>
-<html lang="es">
-<head>
-    <title>Pablo</title>
-</head>
 <body>
     <h1>Pablo Singh</h1>
     <br><hr>
