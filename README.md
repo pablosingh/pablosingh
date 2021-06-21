@@ -1,8 +1,41 @@
-### Hi there 👋
+### Hola soy Pablo 👋
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <title>Pablo</title>
+</head>
+<body>
+    <h1>Pablo Singh</h1>
+    <br><hr>
+    <h2>Datos personales</h2>
+    <ul>
+        <li>Edad: 31 años</li>
+        <li>Argentino</li>
+        <li>Residencia: Bs. As.</li>
+        <li>Email: pablo22_4@hotmail.com</li>
+        <li>LikedIn: https://www.linkedin.com/in/pablosingh/</li>
+    </ul>
+    <br><hr>
+    <h2>Formación</h2>
+    <ul>
+        <li>Front-End Developer en Soy Henry</li>
+        <li>2do Año de Ing. en Sistemas</li>
+        <li>Técnico Electronico</li>
+        <li>Técnico en Armado y Reparación de PC</li>
+    </ul>
+    <br><hr>
+    <h2>Experiencia</h2>
+    <ul>
+        <li>Proyecto grupal tipo Pasantía en Mist coordinado por Soy Henry</li>
+        <li>Agente en Call Center Atento Argentina</li>
+        <li>Técnico en Telefonica de Argentina</li>
+        <li>Técnico en Gendarmería Nacional Argentina</li>
+    </ul>
+</body>
+</html>
 
 <!--
-**pablosingh/pablosingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
