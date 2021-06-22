@@ -1,6 +1,13 @@
 ### Hola soy Pablo 👋
 
 <!DOCTYPE html>
+<head>
+    <style>
+        body{
+            background-color: rgb(52, 155, 240);
+        }
+    </style>
+</head>
 <body>
     <h1>Pablo Singh</h1>
     <br><hr>
