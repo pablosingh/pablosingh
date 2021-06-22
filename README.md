@@ -1,14 +1,7 @@
 ### Hola soy Pablo 👋
 
 <!DOCTYPE html>
-<head>
-    <style>
-        body{
-            background-color: rgb(52, 155, 240);
-        }
-    </style>
-</head>
-<body>
+<body style="background-color: rgb(52, 155, 240)">
     <h1>Pablo Singh</h1>
     <br><hr>
     <h2>Datos personales</h2>
