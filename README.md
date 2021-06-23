@@ -6,7 +6,6 @@
     <br><hr>
     <h2>Datos personales</h2>
     <ul>
-        <li>Edad: 31 años</li>
         <li>Argentino</li>
         <li>Residencia: Bs. As.</li>
         <li>Email: pablo22_4@hotmail.com</li>
