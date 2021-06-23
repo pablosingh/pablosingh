@@ -14,7 +14,7 @@
     <br><hr>
     <h2>Formación</h2>
     <ul>
-        <li>Front-End Developer en Soy Henry</li>
+        <li>Full Stack / Front-End Developer en Soy Henry</li>
         <li>2do Año de Ing. en Sistemas</li>
         <li>Técnico Electronico</li>
         <li>Técnico en Armado y Reparación de PC</li>
@@ -22,7 +22,7 @@
     <br><hr>
     <h2>Experiencia</h2>
     <ul>
-        <li>Proyecto grupal tipo Pasantía en Mist coordinado por Soy Henry</li>
+        <li>Proyecto grupal en Mist Colombia coordinado por Soy Henry</li>
         <li>Agente en Call Center Atento Argentina</li>
         <li>Técnico en Telefonica de Argentina</li>
         <li>Técnico en Gendarmería Nacional Argentina</li>
